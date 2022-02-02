@@ -4,7 +4,7 @@
 
 
 // using this array,
-var array = ["Banana", "Apples", "Oranges", "Blueberries"];
+var fruitArray = ["Banana", "Apples", "Oranges", "Blueberries"];
 array.shift[0];
 return array;
 
