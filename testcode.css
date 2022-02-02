@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    display: flex;
+    flex-flow: wrap;
+    color: rgb(30, 95, 214);
+    flex-wrap: wrap;
+    height: repeat(autofill, 1fr);
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    padding-left: 1fr;
+    align-self: center;
+    width: auto;
+    border: none;
+    
+}
+
+h1:hover {
+    color: crimson;
+    animation-duration: 1s;
+    -moz-box-direction: normal;
+    flex-flow: row;
+}
