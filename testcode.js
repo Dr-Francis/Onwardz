@@ -1,3 +1,5 @@
+var _ = require('lodash');
+
 // myList.push(["Northern Island"]);
 // myList.unshift(["London", "Cardiff", "Edinburgh", "Belfast"]);
 // console.log(myList);
